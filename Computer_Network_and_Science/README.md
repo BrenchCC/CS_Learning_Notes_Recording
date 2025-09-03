@@ -12,6 +12,6 @@
 
 - `郑铨-中科大\` 文件夹中为**上课ppt**
 - `Log_of_ComputerNetworking-ATopDownApproach_7th\` 文件夹中为**学习笔记**，分章节记录
-- `ComputerNetworking_ ATopDownApproach_7th.pdf` 为**参考书籍**——《计算机网络——自顶向下方法》英文第7版
-- `计算机网络（原书第7版） 自顶向下方法 .pdf` 为**参考书籍**——《计算机网络——自顶向下方法》中文第7版
+- `ComputerNetworking_ATopDownApproach_7th.pdf` 为**参考书籍**——《计算机网络——自顶向下方法》英文第7版
+- `计算机网络（原书第7版）自顶向下方法 .pdf` 为**参考书籍**——《计算机网络——自顶向下方法》中文第7版
 - `Solutions-7th-Edition.pdf` 为参考书籍——《计算机网络——自顶向下方法》英文第7版的**习题解答**
