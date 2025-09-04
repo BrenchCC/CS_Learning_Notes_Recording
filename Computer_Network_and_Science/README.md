@@ -6,7 +6,7 @@
 
 配套课程为 **中国科学技术大学 郑烇教授 2020年秋季 自动化系 《计算机网络》** 课程
 
-课程视频连接：[LINK](https://www.bilibili.com/video/BV1JV411t7ow/)
+课程视频链接：[LINK](https://www.bilibili.com/video/BV1JV411t7ow/)
 
 其中：
 
