@@ -11,4 +11,5 @@
 ## Guided_Study_of_Artificial_Intelligence or AI Related(TBD)
 
 ## Machine Learning(TBD)
-- **[ML Learning Notes](https://github.com/BrenchCC/ML_Learning_Notes)**
+- **[Math4ML_Explanation](https://github.com/qiwsir/Math4ML_book)**
+- **[ML Learning Notes(base on numpy coding)](https://github.com/BrenchCC/ML_Learning_Notes)**
