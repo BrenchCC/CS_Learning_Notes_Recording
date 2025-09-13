@@ -10,5 +10,5 @@
 - **[Instruction](./Computer_Network_and_Science/README.md)**
 ## Guided_Study_of_Artificial_Intelligence or AI Related(TBD)
 
-## Machine Learning(TBD)
+## Machine Learning
 - **[Instruction/Reference](./Machine_Learning/README.md)**
