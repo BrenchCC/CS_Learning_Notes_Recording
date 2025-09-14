@@ -1,6 +1,6 @@
 # CS_LEARNING_NOTES_RECORDING
 
-**A repo for recording some courses materials which open source**
+**A repo for recording some courses materials which are open source**
   
 ## Data Engineering(TBD)
 
